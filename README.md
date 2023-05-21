@@ -9,11 +9,12 @@ References: https://coderslegacy.com/python/pygame-platformer-game-development/
 Best score implementation:
 ![Score](https://github.com/Perejy/CactusPlatformer/assets/98894840/9dffc27e-8c17-4dd8-8fcb-2981330a14fa)
 
-Own assets
-![Cactus](https://github.com/Perejy/CactusPlatformer/src/Cactus.png)
-![Coin](https://github.com/Perejy/CactusPlatformer/src/Coin.png)
-![background](https://github.com/Perejy/CactusPlatformer/src/background.png)
-![platform](https://github.com/Perejy/CactusPlatformer/src/platform.png)
+Own assets:
+![Cactus](https://github.com/Perejy/CactusPlatformer/assets/98894840/eab6332d-aae0-4e80-81be-cf12d682fc61)
+![Coin](https://github.com/Perejy/CactusPlatformer/assets/98894840/a0acee80-27b8-4357-80cf-06eb480ccadf)
+![background](https://github.com/Perejy/CactusPlatformer/assets/98894840/053e9ae6-3c14-4d5f-8bd6-d4a21fe2fd1a)
+![platform](https://github.com/Perejy/CactusPlatformer/assets/98894840/8831a2c5-cd3c-43b7-893f-be85a166490c)
+
 
 
 ## Run code
